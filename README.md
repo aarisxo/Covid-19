@@ -1,4 +1,6 @@
-ADS_COVID-19
+Final Submission ADS_COVID-19
+SS2020
+Data science
 ==============================
 
 Applied Data science on Covid-19 data
